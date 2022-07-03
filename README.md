@@ -1,4 +1,4 @@
-## Olá eu sou o Felipe Cristovão, Desenvolvedor Web!
+## Olá! eu sou o Felipe Cristovão,  sou Desenvolvedor Web!
 <div align="center">
   <a href="https://github.com/felipedev01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedev01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
